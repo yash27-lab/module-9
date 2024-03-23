@@ -1,9 +1,9 @@
 [
     {
-        "album_title": "V",
-        "artist": "Maroon 5",
-        "release_year": 2014,
-        "tracks": [
+        "Title": "V",
+        "Artist": "Maroon 5",
+        "Year": 2014,
+        "Tracks": [
             "Sugar",
             "Animals",
             "Maps",
@@ -12,10 +12,10 @@
         ]
     },
     {
-        "album_title": "Asal Mein",
-        "artist": "Darshan Raval",
-        "release_year": 2020,
-        "tracks": [
+        "Title": "Asal Mein",
+        "Artist": "Darshan Raval",
+        "Year": 2020,
+        "Tracks": [
             "Asal Mein",
             "Ek Tarfa",
             "Tere Naal",
@@ -24,10 +24,10 @@
         ]
     },
     {
-        "album_title": "Midnight Memories",
-        "artist": "One Direction",
-        "release_year": 2013,
-        "tracks": [
+        "Title": "Midnight Memories",
+        "Artist": "One Direction",
+        "Year": 2013,
+        "Tracks": [
             "Best Song Ever",
             "Story of My Life",
             "Midnight Memories",
