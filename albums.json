@@ -1,6 +1,6 @@
 [
     {
-        "Title": "V",
+        "Album Title": "V",
         "Artist": "Maroon 5",
         "Year": 2014,
         "Tracks": [
@@ -12,7 +12,7 @@
         ]
     },
     {
-        "Title": "Asal Mein",
+        "Album Title": "Asal Mein",
         "Artist": "Darshan Raval",
         "Year": 2020,
         "Tracks": [
@@ -24,7 +24,7 @@
         ]
     },
     {
-        "Title": "Midnight Memories",
+        "Album Title": "Midnight Memories",
         "Artist": "One Direction",
         "Year": 2013,
         "Tracks": [
