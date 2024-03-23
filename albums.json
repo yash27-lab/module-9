@@ -1,7 +1,7 @@
 [
     {
-        "album_title": "V",
         "artist": "Maroon 5",
+        "album_title": "V",
         "release_year": 2014,
         "tracks": [
             "Sugar",
@@ -12,8 +12,8 @@
         ]
     },
     {
-        "album_title": "Asal Mein",
         "artist": "Darshan Raval",
+        "album_title": "Asal Mein",
         "release_year": 2020,
         "tracks": [
             "Asal Mein",
@@ -24,8 +24,8 @@
         ]
     },
     {
-        "album_title": "Midnight Memories",
         "artist": "One Direction",
+        "album_title": "Midnight Memories",
         "release_year": 2013,
         "tracks": [
             "Best Song Ever",
